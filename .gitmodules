@@ -1,0 +1,4 @@
+
+[submodule "path/to/Hangman-Game"]
+	path = path/to/Hangman-Game
+	url = https://github.com/shivam-garg7/Hangman-Game
